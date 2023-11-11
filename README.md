@@ -6,8 +6,9 @@ This project aims to classify images of garbage into different categories using 
 ## Features
 
 - **Image Classification:** The model classifies images into different categories such as organic, recyclable, and non-recyclable waste.
-- Clone the repository:
-- 
+
+## Hints:
+use garbage.zip for using the trained model of garbage (Garbage.h5)
 
 
 
